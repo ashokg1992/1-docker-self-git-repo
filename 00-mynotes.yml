@@ -1,0 +1,7 @@
+
+
+
+- docker run -v data_vol:/app      # it means we  have creaed already a volume called data_vol  in dcoker and this volume is mount to perticular path inside container. so that in docker host we have created a volume as permanet and this volume is attched to contianers as persistnet voume 
+-  sudo usermod -aG dcoker  ubuntu  # ??
+- crictl in organization purpose? 
+- 
